@@ -11,9 +11,8 @@ This repository serves as a showcase of my data analysis projects, highlighting 
 Below are some of the projects featured in this portfolio:
 
 1. **Project Name 1**
-   - [Project Description](link-to-project-repository)
-   - [Live Demo (if applicable)](link-to-live-demo)
-   - ![Project Screenshot](link-to-project-screenshot)
+   - [Capstone project: Providing data-driven suggestions for HR](https://github.com/Nebiyu-Abrie/Google-Advance-DA-Portfolio-Project----Salifort-Motors)
+   - ![Description](A Google Advanced DA Capstone Project)
 
 2. **Project Name 2**
    - [Project Description](link-to-project-repository)
