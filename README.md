@@ -46,7 +46,7 @@ Computer science and Data analytics, I strive to apply my analytical skills in r
 
 ## Connect with Me
 
-- 🌐 [LinkedIn]([https://www.linkedin.com/in/nebiyu-abrie-157824143/])
+- 🌐 [LinkedIn](https://www.linkedin.com/in/nebiyu-abrie-157824143/)
 - 📧 [Email](ntsegaye77@gmail.com)
 
 Feel free to reach out for collaborations, questions, or just to connect!
