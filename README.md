@@ -12,7 +12,7 @@ Below are some of the projects featured in this portfolio:
 
 1. **Project Name : Google Advanced DA Capstone Project**
    - [Capstone project: Providing data-driven suggestions for HR](https://github.com/Nebiyu-Abrie/Google-Advance-DA-Portfolio-Project----Salifort-Motors)
-   - Description: Salifort Motors project which analayzes the survey data and come up with insights how to increase employee retention. To help with this, it is    suggested to design a model that predicts whether an employee will leave the company based on their job title, department, number of projects, average monthly hours, and any other relevant data points.  .
+   - Description: Salifort Motors project, which is trying to analyze the survey data and come up with insights how to increase employee retention. To help with this, it is    suggested to design a model that predicts whether an employee will leave the company based on their job title, department, number of projects, average monthly hours, and any other relevant data points.  .
 
 2. **Project Name 2**
    - [Project Description](link-to-project-repository)
