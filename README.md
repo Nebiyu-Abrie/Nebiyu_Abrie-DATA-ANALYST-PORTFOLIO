@@ -15,11 +15,14 @@ Below are some of the projects featured in this portfolio:
    - Description: Salifort Motors project, which is trying to analyze the survey data and come up with insights how to increase employee retention. To help with this, it is    suggested to design a model that predicts whether an employee will leave the company based on their job title, department, number of projects, average monthly hours, and any other relevant data points.
    - Tools Used: python, matplotlib, seaborn
 
-2. **Project Name : E-commerce Sales Analysis**
+2. **Project Name: EDA structuring with Python**
+   - [Lightning Strike Dataset EDA] (https://github.com/Nebiyu-Abrie/EDA_structuring_python)
+   - [Project Description] We will be examining lightning strike data collected by the National Oceanic and Atmospheric Association (NOAA) for the year of 2018. First, we will find the locations with the greatest number of strikes within a single day. Then, we will examine the locations that had the greatest number of days with at least one lightning strike.
+3. **Project Name : E-commerce Sales Analysis**
    - [E-commerce Sales Analysis](https://github.com/Nebiyu-Abrie/Data-Analysis-in-SQL)
    - [Project Description](Showcasing my SQL skills through a simple dataset)
 
-3. **Tableau Dashboard**
+4. **Tableau Dashboard**
    - [Link to Tableau personal Dashboard](https://public.tableau.com/app/profile/nebiyu.abrie)
 
 Feel free to explore the repositories linked above for detailed project descriptions, code, and visualizations.
